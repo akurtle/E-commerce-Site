@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#Overview
+
+This is an E-commerce site created using Next.js, sanity as the data-base and stripe for payments.
+
+(This is just for a layout of an ecom site , the products are not real.)
+
 
 ## Getting Started
 
