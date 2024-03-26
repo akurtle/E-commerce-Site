@@ -6,7 +6,6 @@ import {AiOutlineMinus,AiOutlinePlus,AiOutlineLeft,AiOutlineShopping} from "reac
 
 import {TiDeleteOutline} from "react-icons/ti"
 
-
 import {toast} from "react-hot-toast"
 
 
