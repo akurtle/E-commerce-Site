@@ -2,7 +2,7 @@
 
 This is an E-commerce site created using Next.js, sanity as the data-base and stripe for payments.
 
-It is live on : (Live website)[https://e-commerce-site-flame.vercel.app/]
+It is live on : [Live website](https://e-commerce-site-flame.vercel.app/)
 
 (This is just for a layout of an ecom site , the products are not real.)
 
